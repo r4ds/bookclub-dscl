@@ -1,4 +1,4 @@
-# Introduction
+# Modeling Data
 
 **Learning objectives:**
 

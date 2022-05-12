@@ -1,4 +1,4 @@
-# Introduction
+# Project Management with Make
 
 **Learning objectives:**
 

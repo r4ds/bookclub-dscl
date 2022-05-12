@@ -1,4 +1,4 @@
-# Introduction
+# Parallel Pipelines
 
 **Learning objectives:**
 
