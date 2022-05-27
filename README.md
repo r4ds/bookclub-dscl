@@ -3,33 +3,14 @@
 Welcome to the R4DS Data Science at the Command Line Book Club!
 
 We are working together to read [_Data Science at the Command Line_](https://datascienceatthecommandline.com/2e/) by Jeroen Janssens ( O’Reilly Media, copyright October 2021, [978-1492087915](https://www.oreilly.com/library/view/data-science-at/9781492087908/)).
-Join the #book_club-dscl channel on the [R4DS Slack](https://r4ds.io/join) to participate.
+Join the [#book_club-dscl](https://rfordatascience.slack.com/archives/C03BC8VSTFH) channel on the [R4DS Slack](https://r4ds.io/join) to participate.
 As we read, we are producing [notes about the book](https://r4ds.io/dscl).
 
 ## Meeting Schedule
 
-If you would like to present, please add your name next to a chapter using the [GitHub Web Editor](https://youtu.be/d41oc2OMAuI)!
+If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-dscl](https://rfordatascience.slack.com/archives/C03BC8VSTFH) channel on Slack)!
 
-*Cohort 1: Wednesdays, 8:00am CST/CDT*
-
-<details>
-  <summary> Past Meetings </summary>
-  
-(none yet)
-</details>
-
-- 2022-05-11: Chapter 1 (Introduction) - Shamsuddeen Muhammad
-- 2022-05-18: Chapter 2 (Getting Started) - Pavitra Chakravarty
-- 2022-05-25: Chapter 3 (Obtaining Data) - PRESENTER TBD
-- 2022-06-01: Chapter 4 (Creating Command-line Tools) - PRESENTER TBD
-- 2022-06-08: Chapter 5 (Scrubbing Data) - PRESENTER TBD
-- 2022-06-15: Chapter 6 (Project Management with Make) - PRESENTER TBD
-- 2022-06-22: Chapter 7 (Exploring Data) - PRESENTER TBD
-- 2022-06-29: Chapter 8 (Parallel Pipelines) - PRESENTER TBD
-- 2022-07-06: Chapter 9 (Modeling Data) - PRESENTER TBD
-- 2022-07-13: Chapter 10 (Polyglot Data Science) - PRESENTER TBD
-- 2022-07-20: Chapter 11 (Conclusion) - PRESENTER TBD
-
+- [Cohort 1](https://docs.google.com/spreadsheets/d/1dioHLiCEOOIvHUAuneOI_-0jqFzQGeO60TfGFQk3Dkk/edit?usp=sharing) (started 2022-05-04): [Wednesdays, 8:00am CST/CDT](https://www.timeanddate.com/worldclock/converter.html?iso=20220504T130000&p1=24&p2=133) | [meeting videos](https://www.youtube.com/playlist?list=PL3x6DOfs2NGggpv-3tcKBJ6-JKN5laj7K)
 
 
 <hr>
