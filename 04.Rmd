@@ -13,12 +13,13 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/i4x3bLLOl6A")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:31:27	shamsuddeen:	https://blogs.shmuhammad.com
+00:31:59	shamsuddeen:	https://github.com/shmuhammad2004/blog
 ```
 </details>
