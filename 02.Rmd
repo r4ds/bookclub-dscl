@@ -13,12 +13,17 @@
 
 ### Cohort 1
 
-`r knitr::include_url("https://www.youtube.com/embed/URL")`
+`r knitr::include_url("https://www.youtube.com/embed/hlpYl4wSsXU")`
 
 <details>
 <summary> Meeting chat log </summary>
 
 ```
-LOG
+00:15:58	shamsuddeen:	can u increase size of terminal
+00:20:41	shamsuddeen:	Yes, I am here
+00:36:35	shamsuddeen:	shell is both scripting, interpreter
+00:37:26	Brett Longworth (he/him):	yes! difference is like executing an R script vs entering commands in R console/repl
+00:43:16	shamsuddeen:	https://github.com/tldr-pages/tldr
+00:57:32	shamsuddeen:	Hello, I have to attend another meeting now
 ```
 </details>
